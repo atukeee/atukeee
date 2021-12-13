@@ -2,7 +2,7 @@
  I'm a web and android developer.
  
  	
-<img src="https://pyblog.xyz/wp-content/uploads/2020/09/earth.jpg" align="right">
+<img src="https://www.instagram.com/p/CQJne5ynQeq/?utm_source=ig_web_copy_link" align="right">
 
 
 <!--
