@@ -2,7 +2,7 @@
  I'm a web and android developer.
  
  	
-<img src="https://www.instagram.com/p/CF45I0en6HT/?utm_source=ig_web_copy_link" align="right">
+<img src="https://www.pinterest.ph/pin/472666923370535762/" align="right">
 
 
 <!--
