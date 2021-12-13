@@ -3,7 +3,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&amp;style=social)&nbsp;&nbsp;
  
-![Instagram Badge](https://img.shields.io/badge/-@hyper_motard_950-F44747?style=flat-square&amp;labelColor=F44747&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/hyper_motard_950)
+![Instagram Badge](https://img.shields.io/badge/-@hyper_motard_950-F44747?style=flat-square&amp;labelColor=F44747&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/atukeee/)
 
 <!--
 **atukeee/atukeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
