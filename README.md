@@ -1,5 +1,7 @@
 
-## Hi I'm Ally 👩‍💻
+<p align="center">
+    Hi I'm Ally 👩‍💻
+</p>
 
 ![atukeee](https://github.com/atukeee/atukeee/blob/main/ezgif.com-gif-maker.gif)
 
