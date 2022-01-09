@@ -1,7 +1,9 @@
 
-<p align="center">
-    Hi I'm Ally 👩‍💻
-</p>
+<h1 align="center">HI, WELCOME TO MY GITHUB PROFILE! 👋</h1>
+
+<div align="center">
+    
+<div>
 
 ![atukeee](https://github.com/atukeee/atukeee/blob/main/ezgif.com-gif-maker.gif)
 
