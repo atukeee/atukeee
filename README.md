@@ -1,16 +1,34 @@
 
-<h1 align="center">HI, WELCOME TO MY GITHUB PROFILE! 👋</h1>
+<h1 align="center">Hi, I'm Maria Allyza A. Toquire👋</h1>
 
-<div align="center">
-    
-<div>
+<h3 align="center">A passionate student programmer from Philippines</h3>
+
 
 ![atukeee](https://github.com/atukeee/atukeee/blob/main/ezgif.com-gif-maker.gif)
 
-:computer: _IT student at [TIP](https://www.tip.edu.ph)_:school:
+<p align="center">
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.facebook.com/" target="_blank">
+        <img src="https://img.shields.io/badge/facebook%20-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
+    </a> 
+     <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+</p>
+
+<ul>
+    <li> 🏫I'm currently studying Bachelor of Science in Information Technology on <a href="https://www.tip.edu.ph">Technological Institute of the Philippines</a></li>
+    <li> 📖I'm currently learning Android, Machine Learning and Web Development</li>
+    <li> 👩‍💻All of my projects are available at my <a href="https://github.com/atukeee">https://github.com/atukeee</a></li>
+    <li> 📫How to reach me <a href=allyzatoquire@gmail.com>allyzatoquire@gmail.com</a></li>
+</ul>
 
 
-### My Tech Stack
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 
