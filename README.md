@@ -48,3 +48,6 @@
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+
+<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
