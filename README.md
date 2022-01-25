@@ -29,7 +29,8 @@
     <li> 📫How to reach me? <a href=allyzatoquire@gmail.com>allyzatoquire@gmail.com</a></li>
 </ul>
 
-<h3>🔧Technologies and Tools</h3>
+
+## 🔧Technologies and Tools:
 <p align="center">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
@@ -43,10 +44,21 @@
     <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white"/>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=atukeee" width="50%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atukeee" width="50%"/>
-</p>
+
+## 👀My Github Stats:
+
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=atukeee&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=atukeee&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=atukeee&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atukeee&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" />
+</a>
+</div>
 
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 <!--[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")-->
